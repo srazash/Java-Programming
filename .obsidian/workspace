@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "55adbcce30ab5934",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d7a1501ed963404",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Basics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54d28f701458e1e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9aeceb0bda59a76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "969532d66ea1f7c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d12e092e0a3a78d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "506df0f125cd36cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a4b0e4fba6e62fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6736fc9c97ef9a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c113e8a021f95e92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Basics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbec4bde86c69504",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca4d787a5367dfd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cde7fc4ffb8d2dff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Basics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1d7a1501ed963404",
+  "lastOpenFiles": [
+    "0. Getting Started.md",
+    "1. Basics.md",
+    "2. Variables.md",
+    "Appendix A.md",
+    "References.md",
+    "[[References]].md",
+    "References/References.md",
+    "Online.md"
+  ]
+}
